@@ -1,0 +1,61 @@
+
+.add_photo_button{
+    color: #fff;
+    background-color: #000;
+    opacity: 0.6;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 80%;
+    left: 10%;
+    position: relative;
+}
+.glob_photo{
+    border: 1px solid #000;
+    border-radius: 5px;
+    height: 40px;
+    width: 80%;
+    left: 10%;
+    position: relative;
+}
+.img_more{
+    float: right;
+    margin: 10px 10px 0 0;
+}
+.photo_number{
+    top: 10px;
+    left: 48%;
+    position: relative;
+}
+.upload_field{
+    border: 1px solid #000;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 80%;
+    left: 10%;
+    position: relative;
+    display: none;
+}
+.img_close{
+    float: right;
+    margin: 7px 10px 0 0;
+    font-size: 30px;
+    color: #f00;
+}
+.spin{
+    -webkit-transform: rotate (180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.glob_photo_exp{
+    border-radius: 5px 5px 0 0;
+}
+.test{
+    background-color: red;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
